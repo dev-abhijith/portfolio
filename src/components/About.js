@@ -1,5 +1,5 @@
 import React from "react";
-import TicTacToe from "./TicTacToe.js";
+
 import { Box, Stack, chakra, Text, Flex, Image } from "@chakra-ui/react";
 import arrow1 from "../assets/arrow.png";
 
@@ -63,7 +63,6 @@ function About() {
               </Flex>
             </Text>
           </chakra.h1>
-          {/* <TicTacToe /> */}
         </Stack>
       </Box>
     </Box>

@@ -63,7 +63,7 @@ function About() {
               </Flex>
             </Text>
           </chakra.h1>
-          <TicTacToe />
+          {/* <TicTacToe /> */}
         </Stack>
       </Box>
     </Box>

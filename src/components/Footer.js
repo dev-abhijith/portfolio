@@ -5,7 +5,7 @@ function Footer() {
   return (
     <Flex
       w="full"
-      bg="teal.900"
+      bg="gray.800"
       _dark={{
         bg: "#3e3e3e",
       }}

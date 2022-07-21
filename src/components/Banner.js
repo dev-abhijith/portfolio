@@ -61,10 +61,9 @@ function Banner() {
           _dark={{
             color: "gray.300",
           }}
+          fontWeight="extrabold"
         >
-          Hellonext is a feature voting software where you can allow your users
-          to vote on features, publish roadmap, and complete your customer
-          feedback loop.
+          I Build Things For The Web
         </chakra.p>
         <Stack
           direction={{
